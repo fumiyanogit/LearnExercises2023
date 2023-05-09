@@ -57,7 +57,7 @@
 //	}
 //}
 //
-//aaa
+//aaabbb
 class Exercise4_1 {
 	public static void main(String[] args) {
 		System.out.println("九九表\n");
